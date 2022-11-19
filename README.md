@@ -4,7 +4,6 @@
 <h3 align="center">Web Developer | Engineering Student | Data Analysis Enthusiast</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/jatinder-kaur-minhas-978859203/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
-
 <a href="https://leetcode.com/jatinder1st/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akash_chowrasia" height="30" width="40" /></a>
 
 </p>
